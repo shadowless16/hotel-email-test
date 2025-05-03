@@ -1,0 +1,32 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+
+# Environment variables
+.env
+
+# Flask-related
+instance/
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE-specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
